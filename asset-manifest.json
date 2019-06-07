@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/clickyGame/static/css/main.9cd83a31.chunk.css",
+    "main.js": "/clickyGame/static/js/main.a13ffc1d.chunk.js",
+    "main.js.map": "/clickyGame/static/js/main.a13ffc1d.chunk.js.map",
+    "runtime~main.js": "/clickyGame/static/js/runtime~main.d5f62368.js",
+    "runtime~main.js.map": "/clickyGame/static/js/runtime~main.d5f62368.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/clickyGame/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/clickyGame/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/clickyGame/index.html",
+    "precache-manifest.9f1019e221f814ecddbae34a5bef3a22.js": "/clickyGame/precache-manifest.9f1019e221f814ecddbae34a5bef3a22.js",
+    "service-worker.js": "/clickyGame/service-worker.js",
+    "static/css/main.9cd83a31.chunk.css.map": "/clickyGame/static/css/main.9cd83a31.chunk.css.map",
+    "static/media/charile.jpg": "/clickyGame/static/media/charile.52c8e0eb.jpg",
+    "static/media/danny.jpg": "/clickyGame/static/media/danny.00390432.jpg",
+    "static/media/dee.jpg": "/clickyGame/static/media/dee.d5796aa4.jpg",
+    "static/media/dennis.jpg": "/clickyGame/static/media/dennis.52ae2c3f.jpg",
+    "static/media/mac.png": "/clickyGame/static/media/mac.8afcd52c.png"
+  }
+}
